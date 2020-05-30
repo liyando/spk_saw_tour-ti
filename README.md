@@ -1,2 +1,2 @@
 # spk_saw_tour-ti
-Project SPK Tour SAW Aniur Fitriyasyah
+Project SPK Tour Algoritma SAW 
